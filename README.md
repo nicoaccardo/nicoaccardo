@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Nicolò, a Computer Engineering student at the University of Palermo.
+
+- 🌱 Currently deepening my knowledge in software development, algorithms, and data structures.
+- 💻 Passionate about coding, problem-solving, and exploring new technologies.
+- 🚀 Working on various projects to apply my theoretical knowledge to real-world applications.
+- 🤝 Open to collaboration on exciting and challenging projects.
+
 <!--
 **nicoaccardo/nicoaccardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
